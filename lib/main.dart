@@ -50,4 +50,4 @@ class _MyAppState extends State<MyApp> {
     );
   }
 }
-//main
+//entry point
